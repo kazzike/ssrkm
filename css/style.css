@@ -326,10 +326,8 @@ body {
 	background: #DB4A39 url('../images/icons.png') no-repeat -44px 10px;
 }
 .soc_icons ul li a.icon4{
-	background: #EA4C89 url('../images/icons.png') no-repeat -78px 10px;
-}
-.soc_icons ul li a.icon5{
-	background: #5A872A url('../images/icons.png') no-repeat -112px 10px;
+	background: #FF7700 url('../images/atom1.png') no-repeat 5px;
+	background-size: 32px;
 }
 .soc_icons ul li a:hover{
 	zoom: 1;
